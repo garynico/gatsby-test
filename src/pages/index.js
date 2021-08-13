@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <p>My name is Gary Nico.</p>
+    <p>I'm testing Gatsby Framework.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
